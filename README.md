@@ -3,6 +3,10 @@
 Devpost link: https://devpost.com/software/daly-tally/  
 More information: Daly-tally.pdf  
 
+GrowthRate.ipynb (Newest)  
+
+Predict number of cases based of daily growth rate using exponential decay regression 
+
 Neural.ipynb
 
 Multilayer perceptron Neural net for county level medicare and COVID-19 data
