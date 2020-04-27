@@ -145,7 +145,7 @@ class GrowthRate:
         ax.invert_yaxis()
 
         # Plot heatmap
-        c = ax.pcolor(arr.T * 100, cmap='Blues', vmin=0, vmax=100)
+        c = ax.pcolor(arr.T * 100, cmap='Blues', vmin=0, vmax=10)
         fig.colorbar(c, ax=ax)
         plt.savefig('US_rate.png', transperent=True)
         plt.show()
