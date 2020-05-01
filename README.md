@@ -17,7 +17,7 @@ PCA.py
 PCA of COVID data vs DALY scores
 Running PCA on the DALY scores and COVID number of cases, deaths etc on the 50 states and generate a 2D plot, where the states are separated based on political affiliation
 
-GrowthRate.py
+GrowthRate.py (Deprecated, see GrowthRate.ipynb)
 
 Computing exponential growth rate of number of cases and visualize, comparing with DOW index
 Like the bank interest rate, I visualized the daily growth rates of COVID number of cases of the whole country and all 50 states. For comparison I plotted the growth rate with the DOW index
